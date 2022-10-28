@@ -1,0 +1,15 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    font-size: 1.2 rem;
+}
+section div{
+    margin:10px 0;
+}
+input{
+    margin-top: 8px;
+    font-size: 1rem;
+}
